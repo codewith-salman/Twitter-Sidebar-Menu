@@ -26,7 +26,7 @@
 <h1 align="center">🐦 Twitter Sidebar Menu</h1>
 
 A clean, modern, and fully responsive **Twitter-Inspired Sidebar Navigation UI**  
-designed to replicate the familiar Twitter sidebar experience with smooth interactions.
+designed to replicate the familiar Twitter sidebar experience with smooth interaction.
 
 <a href="https://twitter-sidebar-menu.vercel.app/"><strong>➥ Live Demo</strong></a>
 
