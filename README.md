@@ -68,8 +68,6 @@ This project is ideal for:
 
 This is a **front-end only project**, created for UI practice, learning, and portfolio showcasing — no backend integration included.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -81,8 +79,6 @@ This is a **front-end only project**, created for UI practice, learning, and por
 - Smooth hover and active states  
 - Lightweight and reusable component  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -92,8 +88,6 @@ This project is built using:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
